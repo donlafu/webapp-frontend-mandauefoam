@@ -8,7 +8,7 @@
                 <!-- Masthead Avatar Image-->
                 <img class="masthead-avatar mb-5" src="assets-homepage/assets/img/avataaars.svg" alt="..." />
                 <!-- Masthead Heading-->
-                <h1 class="masthead-heading text-uppercase mb-0">Tom Canseco</h1>
+                <h1 class="masthead-heading text-uppercase mb-0">MandaueFoam</h1>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
@@ -16,7 +16,7 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- Masthead Subheading-->
-                <p class="masthead-subheading font-weight-light mb-0">Graphic Artist - Web Designer - Illustrator</p>
+                <p class="masthead-subheading font-weight-light mb-0">home store</p>
             </div>
         </header>
         <!-- Portfolio Section-->
@@ -193,9 +193,9 @@
                     <div class="col-lg-4 mb-5 mb-lg-0">
                         <h4 class="text-uppercase mb-4">Location</h4>
                         <p class="lead mb-0">
-                            2215 John Daniel Drive
+                            J C Aquino Ave, Butuan City, Agusan Del Norte
                             <br />
-                            Clark, MO 65243
+                            (085) 300 0633
                         </p>
                     </div>
                     <!-- Footer Social Icons-->
